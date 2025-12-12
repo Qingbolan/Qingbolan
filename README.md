@@ -56,8 +56,8 @@ Benchmarks and system methods for **Generative Engine Safety & Marketing**,study
 
 ## 📫 Contact
 
-- GitHub: https://github.com/your-username
-- Email: your-email@nus.edu.sg
+- GitHub: https://github.com/Qingbolan
+- Email: silan.hu@nus.edu.sg
 
 ---
 
