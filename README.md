@@ -4,7 +4,7 @@ PhD Student in Computer Science @ NUS
 Research Focus: **AI Agents · Database Systems · Agent Infrastructure**
 Builder of **EasyRemote / EasyNet** · Exploring **Hierarchical Dynamic Knowledge Systems**
 
----
+[![Example Yearbook](https://yearbook.silan.tech/api/screenshot/Qingbolan/pastyear?width=1280)](https://yearbook.silan.tech/api/embed/Qingbolan/pastyear)
 
 ## 🧠 Research Interests
 
@@ -42,12 +42,6 @@ A database system for **hierarchical dynamic knowledge forests** tailored for AI
 Benchmarks and system methods for **Generative Engine Safety & Marketing**,studying how LLM-generated answers interact with visibility, sponsorship, and user trust.
 
 > Evaluation · Benchmarking · Agent Alignment
-
----
-
-## 📊 GitHub Activity (Past Year)
-
-[![Example Yearbook](https://yearbook.silan.tech/api/screenshot/Qingbolan/pastyear?width=1280)](https://yearbook.silan.tech/api/embed/Qingbolan/pastyear)
 
 ---
 
