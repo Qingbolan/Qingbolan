@@ -1,8 +1,11 @@
 # Hi, I'm Silan Hu 👋
 
 PhD Student in Computer Science @ NUS
+
 Research Focus: **Database Systems for AI Agents · Agent Infrastructure**
+
 Builder of **EasyRemote / EasyNet / GEM-Bench / Easy-notebook**
+
 Designing **Hierarchical Dynamic Knowledge Systems**
 
 [![My Github Past Year](https://yearbook.silan.tech/api/screenshot/Qingbolan/pastyear?width=1280)](https://yearbook.silan.tech/api/embed/Qingbolan/pastyear)
