@@ -39,7 +39,7 @@ A database system for **hierarchical dynamic knowledge forests** tailored for AI
 
 > Database Systems · Agent Memory · Knowledge Graphs
 
-### 🔹 GEM-Bench / GES
+### 🔹 GEM-Bench
 
 Benchmarks and system methods for **Generative Engine Safety & Marketing**,studying how LLM-generated answers interact with visibility, sponsorship, and user trust.
 
