@@ -4,13 +4,11 @@ PhD Student in Computer Science @ NUS
 
 Research Focus: **Database Systems for AI Agents · Agent Infrastructure**
 
-Builder of **EasyRemote / EasyNet / GEM-Bench / Easy-notebook**
+Builder of **Alive platform / EasyNet / GEM-Bench / Easy-notebook**
 
 Designing **Hierarchical Dynamic Knowledge Systems**
 
-[![My Github Past Year](https://yearbook.silan.tech/api/screenshot/Qingbolan/pastyear?width=1280)](https://yearbook.silan.tech/api/embed/Qingbolan/pastyear)
-
-## 🧠 Research Interests
+## Research Interests
 
 I am interested in building **system-level foundations for AI agents**, especially at the intersection of:
 
@@ -27,7 +25,7 @@ My current research direction focuses on designing **AI-native database systems*
 
 ---
 
-## 🚀 Selected Projects
+## Selected Projects
 
 ### 🔹 EasyRemote / EasyNet
 
@@ -49,7 +47,7 @@ Benchmarks and system methods for **Generative Engine Safety & Marketing**,study
 
 ---
 
-## 🔧 Technical Stack
+## Technical Stack
 
 - **Languages**: Python, Go, Rust, TypeScript
 - **Systems**: Databases, Distributed Systems, Agent Infrastructure
@@ -58,7 +56,7 @@ Benchmarks and system methods for **Generative Engine Safety & Marketing**,study
 
 ---
 
-## 📫 Contact
+## Contact
 
 - GitHub: https://github.com/Qingbolan
 - Email: silan.hu@comp.nus.edu.sg
