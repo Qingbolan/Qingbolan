@@ -4,9 +4,11 @@ PhD Student in Computer Science @ NUS
 
 Research Focus: **Database Systems for AI Agents · Agent Infrastructure**
 
-Builder and father of **Alive platform / EasyNet / GEM-Bench / Easy-notebook**
+Creator of **Alive**, **EasyNet**, **GEM-Bench**, and **Easy-Notebook**
 
-Designing **Hierarchical Dynamic Knowledge Systems**
+I believe AI should be accessible to everyone—not just experts.
+
+My goal is to make AI easier to discover, easier to use, easier to manage, easier to organize, easier to protect, easier to govern, and easier to monetize.
 
 ## Research Interests
 
@@ -32,10 +34,6 @@ My current research direction focuses on designing **AI-native database systems*
 A distributed execution infrastructure for AI agents and functions.Designed to support **language-agnostic agent behaviors**, privacy-first compute sharing, and agent-level orchestration.
 
 > Python · Go · gRPC · Distributed Systems
-
-### 🔹 ForestDB (Research Project)
-
-A database system for **hierarchical dynamic knowledge forests** tailored for AI agents.Supports semantic versioning, subtree-level access control, and reasoning-aware storage.
 
 > Database Systems · Agent Memory · Knowledge Graphs
 
