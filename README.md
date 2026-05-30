@@ -29,15 +29,15 @@ My current research direction focuses on designing **AI-native database systems*
 
 ## Selected Projects
 
-### 🔹 EasyRemote / EasyNet
+### EasyRemote / EasyNet
 
 A distributed execution infrastructure for AI agents and functions.Designed to support **language-agnostic agent behaviors**, privacy-first compute sharing, and agent-level orchestration.
 
 > Python · Go · gRPC · Distributed Systems
 
-### 🔹 GEM-Bench
+### GEM-Bench
 
-Benchmarks and system methods for **Generative Engine Safety & Marketing**,studying how LLM-generated answers interact with visibility, sponsorship, and user trust.
+Benchmarks and system methods for **Generative Engine Marketing**,studying how LLM-generated answers interact with visibility, sponsorship, and user trust.
 
 > Evaluation · Benchmarking · Agent Alignment
 
