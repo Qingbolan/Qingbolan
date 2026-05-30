@@ -35,8 +35,6 @@ A distributed execution infrastructure for AI agents and functions.Designed to s
 
 > Python · Go · gRPC · Distributed Systems
 
-> Database Systems · Agent Memory · Knowledge Graphs
-
 ### 🔹 GEM-Bench
 
 Benchmarks and system methods for **Generative Engine Safety & Marketing**,studying how LLM-generated answers interact with visibility, sponsorship, and user trust.
