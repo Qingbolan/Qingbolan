@@ -19,7 +19,7 @@ I am interested in building **system-level foundations for AI agents**, especial
 - **Agent behavior versioning, reuse, and evolution**
 - **Agent execution infrastructure & distributed systems**
 
-My current research direction focuses on designing **AI-native database systems** that support:
+My current research direction focuses on designing **AI-native data systems** that support:
 
 - Open-World Capability Routing under Capability Drift and Partial Observability
 - evolving agent knowledge,
