@@ -2,7 +2,7 @@
 
 PhD Student in Computer Science @ NUS
 
-Research Focus: **Database Systems for AI Agents · Agent Infrastructure**
+Research Focus: **Data Systems for AI Agents · Agent Infrastructure**
 
 Creator of **Alive**, **EasyNet**, **GEM-Bench**, and **Easy-Notebook**
 
