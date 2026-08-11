@@ -36,9 +36,9 @@ A distributed execution infrastructure for AI agents and functions.Designed to s
 
 > Python · Go · gRPC · Distributed Systems
 
-### GEM-Bench
+### [GEM-Bench](gem-bench.org)
 
-Benchmarks and system methods for **Generative Engine Marketing**,studying how LLM-generated answers interact with visibility, sponsorship, and user trust.
+A benchmark and evaluation toolkit for ad-injected LLM responses. Designed to study the satisfaction–engagement trade-off across chatbots and AI Overviews, with curated datasets, human-validated judges, and reproducible CLI/agent workflows.
 
 > Evaluation · Benchmarking · Agent Alignment
 
