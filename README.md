@@ -30,7 +30,7 @@ My current research direction focuses on designing **AI-native data systems** th
 
 ## Selected Projects
 
-### EasyRemote / EasyNet
+### [EasyRemote / EasyNet](https://silan.tech)
 
 A distributed execution infrastructure for AI agents and functions.Designed to support **language-agnostic agent behaviors**, privacy-first compute sharing, and agent-level orchestration.
 
